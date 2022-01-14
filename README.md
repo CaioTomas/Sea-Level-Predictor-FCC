@@ -1,3 +1,5 @@
+This is a repo with my solution to the Sea Level Predictor project for the Data Analysis with Python course from freeCodeCamp.
+
 ### Assignment
 
 You will anaylize a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through year 2050.
